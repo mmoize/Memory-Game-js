@@ -5,3 +5,19 @@
     width: 400px;
 }
 
+body {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: relative;
+    background-color: rgb(221, 237, 238);
+
+}
+
+.content {
+    margin-top: 10%;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    /* transform: translate(-50%, -50%); */
+}
